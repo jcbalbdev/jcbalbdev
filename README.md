@@ -7,6 +7,9 @@ I am 29 years old and I am  `Software Frontend Developer` 💻 , `User Interface
 ---
 ### Tech & Tools Preference 💻
 [![Javascript](https://img.shields.io/badge/Javascript-facc15?style=for-the-badge&logo=javascript&logoColor=facc15&labelColor=1c1917)]()
+[![React](https://img.shields.io/badge/React-facc15?style=for-the-badge&logo=react&logoColor=facc15&labelColor=1c1917)]()
+[![Astro](https://img.shields.io/badge/Astro-facc15?style=for-the-badge&logo=astro&logoColor=facc15&labelColor=1c1917)]()
+
 
 <!--
 **jcbalbdev/jcbalbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
