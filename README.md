@@ -17,6 +17,7 @@ I am 29 years old and I am  `Software Frontend Developer` 💻 , `User Interface
 [![React](https://img.shields.io/badge/React-f0f9ff?style=for-the-badge&logo=react&logoColor=38bdf8&labelColor=1c1917)]()
 [![Next](https://img.shields.io/badge/Next-fafaf9?style=for-the-badge&logo=next.js&logoColor=fafaf9&labelColor=1c1917)]()
 [![Astro](https://img.shields.io/badge/Astro-fff7ed?style=for-the-badge&logo=astro&logoColor=fb923c&labelColor=1c1917)]()
+[![Gatsby](https://img.shields.io/badge/Astro-faf5ff?style=for-the-badge&logo=gatsby&logoColor=a855f7&labelColor=1c1917)]()
 
 [![Git](https://img.shields.io/badge/Git-fff1f2?style=for-the-badge&logo=git&logoColor=fb7185&labelColor=1c1917)]()
 [![Github](https://img.shields.io/badge/Github-fafaf9?style=for-the-badge&logo=github&logoColor=fafaf9&labelColor=1c1917)]()
