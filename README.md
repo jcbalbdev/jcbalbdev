@@ -1,40 +1,34 @@
-### **Hi, I'm Jose Carlos Balbin** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+# **Hi, I'm Jose Carlos Balbin** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+### 🚀 Software Developer | 🎨 Front-End Architect | ✍️ Blogger 
+---
+
+## 🎯 About Me  
+I thrive on challenges and love exploring new technologies to build innovative, scalable, and elegant solutions that solve real-world problems.  
+✨ I focus on generating value in every project I work on, combining creativity, functionality, and scalability to deliver outstanding user experiences.
 
 ---
 
-I am 29 years old and I am  `Software Frontend Developer` 💻 , `User Interface Designer` 📱 and `Blogger`✌️. I like to be constantly updated on issues in the world of software development 📚 and I like to share what I'm learning in an easy and simple way✨.
+## 🛠️ Tech & Tools  
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
-### Tech & Tools Preference 💻
-[![Javascript](https://img.shields.io/badge/Javascript-fefce8?style=for-the-badge&logo=javascript&logoColor=facc15&labelColor=1c1917)]()
-[![Python](https://img.shields.io/badge/Python-eff6ff?style=for-the-badge&logo=python&logoColor=facc15&labelColor=1c1917)]()
 
-[![Markdown](https://img.shields.io/badge/Markdown-fafaf9?style=for-the-badge&logo=markdown&logoColor=fafaf9&labelColor=1c1917)]()
-[![Html](https://img.shields.io/badge/Html-fff7ed?style=for-the-badge&logo=html5&logoColor=fb923c&labelColor=1c1917)]()
-[![CSS](https://img.shields.io/badge/CSS-eff6ff?style=for-the-badge&logo=css3&logoColor=2563eb&labelColor=1c1917)]()
-[![Tailwind](https://img.shields.io/badge/Tailwind-ecfeff?style=for-the-badge&logo=tailwindcss&logoColor=22d3ee&labelColor=1c1917)]()
-
-[![React](https://img.shields.io/badge/React-f0f9ff?style=for-the-badge&logo=react&logoColor=38bdf8&labelColor=1c1917)]()
-[![Next](https://img.shields.io/badge/Next-fafaf9?style=for-the-badge&logo=next.js&logoColor=fafaf9&labelColor=1c1917)]()
-[![Astro](https://img.shields.io/badge/Astro-fff7ed?style=for-the-badge&logo=astro&logoColor=fb923c&labelColor=1c1917)]()
-[![Gatsby](https://img.shields.io/badge/Gatsby-faf5ff?style=for-the-badge&logo=gatsby&logoColor=a855f7&labelColor=1c1917)]()
-
-[![Git](https://img.shields.io/badge/Git-fff1f2?style=for-the-badge&logo=git&logoColor=fb7185&labelColor=1c1917)]()
-[![Github](https://img.shields.io/badge/Github-fafaf9?style=for-the-badge&logo=github&logoColor=fafaf9&labelColor=1c1917)]()
-[![Gitlab](https://img.shields.io/badge/Gitlab-fff7ed?style=for-the-badge&logo=gitlab&logoColor=ea580c&labelColor=1c1917)]()
-
-
-<!--
-**jcbalbdev/jcbalbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ **"Building software with ❤️ from Lima (Perú) to the world."**
