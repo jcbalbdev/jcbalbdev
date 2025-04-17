@@ -1,19 +1,29 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/WcYnTzdrjQphdu33xs/giphy.gif" alt="Logo de Github" width="100" />
   <br/>
-  <strong>Hi, I'm Jose Carlos Balbin</strong>
+  <strong>Hola, soy Jose Carlos Balbin</strong>
 </h1>
 
-### 🚀 Software Developer | 🎨 Front-End Architect | ✍️ Blogger 
----
-
-## 🎯 About Me  
-I thrive on challenges and love exploring new technologies to build innovative, scalable, and elegant solutions that solve real-world problems.  
-✨ I focus on generating value in every project I work on, combining creativity, functionality, and scalability to deliver outstanding user experiences.
+<p align="center">
+  🚀 Desarrollador Front-End | 🎮 Aventurero del Código | 🎨 Futuro Arquitecto Front-End
+</p>
 
 ---
 
-## 🛠️ Tech & Tools  
+## 🎯 Sobre mí
+
+Para mí, programar es como diseñar mundos interactivos: líneas de código que cobran vida para resolver problemas reales.  
+✨ Combino creatividad, rendimiento y escalabilidad para desarrollar interfaces que no solo funcionan, sino que dejan huella.
+
+🔍 Actualmente enfocado en:
+- Transformarme en un **Arquitecto Front-End** de alto nivel 🧙‍♂️
+- Potenciar mis habilidades con TypeScript, Astro, React y más
+- Elevar mis habilidades con cada línea de código 🪄
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,6 +44,25 @@ I thrive on challenges and love exploring new technologies to build innovative, 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
+</div>
+
 ---
 
-### ✨ **"Building software with ❤️ from Lima (Perú) to the world."**
+## 🎮 Misión Actual: Dominar la lógica con TypeScript
+
+Estoy creando un repositorio público con ejercicios de lógica usando TypeScript, como si fuera una mazmorra llena de acertijos para resolver 🧩.  
+Más adelante, añadiré más lenguajes y proyectos a esta aventura 🚧
+
+📁 [`logica-typescript`](https://github.com/jcbalbdev/logica-typescript)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b7611e74dc98bc5e2abf119640bf9c917bd8695bdea90&ep=v1_user_favorites&rid=giphy.gif&ct=g" width="80" alt="World" />
+</p>
+
+<p align="center">
+  ✨ Construyendo soluciones digitales con pasión, desde <strong>Lima (Perú)</strong> 🇵🇪 para el <strong>mundo</strong> 🌍
+</p>
+
+
