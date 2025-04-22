@@ -25,50 +25,31 @@ Para mí, programar es como diseñar mundos interactivos: líneas de código que
 ## 💻 Tecnologías que uso con frecuencia
 
 <div align="left">
-<p align="left">
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://astro.build/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro.js" width="40" height="40"/>
-  </a>
-  <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
+
+<p align="center">
+  <!-- Lenguajes -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHppcDlkeDA1eXAxcjN6cTI2M25uaTZ1eGVoZ3E3eWM3emZ3OHd1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" title="JavaScript" alt="JavaScript" width="80" height="80" style="margin: 10px;" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" title="Python" alt="Python" width="80" height="80" style="margin: 10px;" />
+
+  <!-- Frameworks & Librerías -->
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" title="React" alt="React" width="80" height="80" style="margin: 10px;" />
+  <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" title="Vue.js" alt="Vue.js" width="80" height="80" style="margin: 10px;" />
+  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" title="Angular" alt="Angular" width="80" height="80" style="margin: 10px;" />
+  <img src="https://media.giphy.com/media/Y1q8LF4Fc6DoQYC3fi/giphy.gif" title="Svelte" alt="Svelte" width="80" height="80" style="margin: 10px;" />
+  <img src="https://media.giphy.com/media/B61SFWeRCILrGoINTu/giphy.gif" title="Astro.js" alt="Astro.js" width="60" height="80" style="margin: 10px;" />
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" title="Node.js" alt="Node.js" width="80" height="80" style="margin: 10px;" />
+
+  <!-- HTML & CSS -->
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" title="HTML5" alt="HTML5" width="80" height="80" style="margin: 10px;" />
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" title="CSS3" alt="CSS3" width="80" height="80" style="margin: 10px;" />
+
+  <!-- Herramientas -->
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" title="Git" alt="Git" width="160" height="80" style="margin: 10px;" />
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" title="GitHub" alt="GitHub" width="80" height="80" style="margin: 10px;" />
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" title="Visual Studio Code" alt="Visual Studio Code" width="80" height="80" style="margin: 10px;" />
 </p>
+
+
 </div>
 
 
