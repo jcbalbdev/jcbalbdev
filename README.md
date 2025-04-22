@@ -56,36 +56,6 @@ Cada archivo es una misión, cada lenguaje una nueva dimensión. ¡Y apenas esto
 📁 [`Lógica con TypeScript`](https://github.com/jcbalbdev/logica-typescript) — fortaleciendo bases sólidas para el desarrollo profesional con tipos bien definidos y control estructurado 🧱  
 📁 [`Lógica con Python`](https://github.com/jcbalbdev/logica-python) — aplicando lógica con agilidad y claridad, ideal para resolver problemas con eficiencia y flow 🐍
 
-### 🗺️ Mapa de Progreso
-
-                  🧠 Desafíos Lógicos Multiverso
-
-                          [🚀 Punto de partida]
-                                    │
-                                    ▼
-    ┌───────────────────────────────────────────────────────────┐
-    │ 📁 Lógica con TypeScript                                   │
-    │ https://github.com/jcbalbdev/logica-typescript            │
-    │                                                           │
-    │ Explora el universo del tipado estático, estructuras      │
-    │ de control y desafíos algorítmicos para construir         │
-    │ bases sólidas como desarrollador profesional 🧱🛰️        │
-    └───────────────────────────────────────────────────────────┘
-                                    │
-                                    ▼
-    ┌───────────────────────────────────────────────────────────┐
-    │ 📁 Lógica con Python                                       │
-    │ https://github.com/jcbalbdev/logica-python                │
-    │                                                           │
-    │ Domina acertijos con sintaxis clara, poderosa y flexible  │
-    │ Entrenamiento ideal para pensar rápido y con precisión    │
-    │ en cada línea de código 🐍⚡                                │
-    └───────────────────────────────────────────────────────────┘
-                                    │
-                                    ▼
-                          🔓 Próximamente: Nuevos lenguajes...
-
-
 ---
 
 <p align="center">
