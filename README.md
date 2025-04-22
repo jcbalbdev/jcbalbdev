@@ -17,7 +17,7 @@ Para mí, programar es como diseñar mundos interactivos: líneas de código que
 
 🔍 Actualmente enfocado en:
 - Transformarme en un **Arquitecto Front-End** de alto nivel 🧙‍♂️
-- Potenciar mis habilidades con TypeScript, Astro, React y más
+- Potenciar mis habilidades con TypeScript, Astro, React y sistemas de diseño modernos
 - Elevar mis habilidades con cada línea de código 🪄
 
 ---
@@ -48,13 +48,43 @@ Para mí, programar es como diseñar mundos interactivos: líneas de código que
 
 ---
 
-## 🎮 Misión Actual: Dominar la lógica con TypeScript
+## 🎮 Misión Actual: Dominar la lógica de programación
 
-Estoy creando un repositorio público con ejercicios de lógica usando TypeScript, como si fuera una mazmorra llena de acertijos para resolver 🧩.  
-Más adelante, añadiré más lenguajes y proyectos a esta aventura 🚧
+Estoy creando una colección de mazmorras lógicas 🧩, resolviendo ejercicios paso a paso para mejorar mi pensamiento algorítmico.  
+Cada archivo es una misión, cada lenguaje una nueva dimensión. ¡Y apenas estoy comenzando esta aventura! 🚀
 
-📁 [`logica-typescript`](https://github.com/jcbalbdev/logica-typescript)
-📁 [`logica-python`](https://github.com/jcbalbdev/logica-python)
+📁 [`Lógica con TypeScript`](https://github.com/jcbalbdev/logica-typescript) — fortaleciendo bases sólidas para el desarrollo profesional con tipos bien definidos y control estructurado 🧱  
+📁 [`Lógica con Python`](https://github.com/jcbalbdev/logica-python) — aplicando lógica con agilidad y claridad, ideal para resolver problemas con eficiencia y flow 🐍
+
+### 🗺️ Mapa de Progreso
+
+                  🧠 Desafíos Lógicos Multiverso
+
+                          [🚀 Punto de partida]
+                                    │
+                                    ▼
+    ┌───────────────────────────────────────────────────────────┐
+    │ 📁 Lógica con TypeScript                                   │
+    │ https://github.com/jcbalbdev/logica-typescript            │
+    │                                                           │
+    │ Explora el universo del tipado estático, estructuras      │
+    │ de control y desafíos algorítmicos para construir         │
+    │ bases sólidas como desarrollador profesional 🧱🛰️        │
+    └───────────────────────────────────────────────────────────┘
+                                    │
+                                    ▼
+    ┌───────────────────────────────────────────────────────────┐
+    │ 📁 Lógica con Python                                       │
+    │ https://github.com/jcbalbdev/logica-python                │
+    │                                                           │
+    │ Domina acertijos con sintaxis clara, poderosa y flexible  │
+    │ Entrenamiento ideal para pensar rápido y con precisión    │
+    │ en cada línea de código 🐍⚡                                │
+    └───────────────────────────────────────────────────────────┘
+                                    │
+                                    ▼
+                          🔓 Próximamente: Nuevos lenguajes...
+
 
 ---
 
