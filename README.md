@@ -63,7 +63,7 @@ Cada archivo es una misión, cada lenguaje una nueva dimensión. ¡Y apenas esto
 </p>
 
 <p align="center">
-  ✨ Construyendo soluciones digitales con pasión, desde <strong>Lima (Perú)</strong> 🇵🇪 para el <strong>mundo</strong> 🌍
+  ✨ Construyendo soluciones digitales con pasión, desde <strong>Lima (Perú)</strong> 🇵🇪 para el <strong>mundo</strong> 🌍<br/>⚔️ ¡Que el código te acompañe! ⚔️
 </p>
 
 
