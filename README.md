@@ -54,6 +54,7 @@ Estoy creando un repositorio público con ejercicios de lógica usando TypeScrip
 Más adelante, añadiré más lenguajes y proyectos a esta aventura 🚧
 
 📁 [`logica-typescript`](https://github.com/jcbalbdev/logica-typescript)
+📁 [`logica-python`](https://github.com/jcbalbdev/logica-python)
 
 ---
 
