@@ -55,13 +55,19 @@ Para mí, programar es como diseñar mundos interactivos: líneas de código que
 
 ---
 
-## 🎮 Misión Actual: Dominar la lógica de programación
+## 🎮 **Misión Actual: Fortalecer mis bases como Arquitecto Frontend**
 
-Estoy creando una colección de mazmorras lógicas 🧩, resolviendo ejercicios paso a paso para mejorar mi pensamiento algorítmico.  
-Cada archivo es una misión, cada lenguaje una nueva dimensión. ¡Y apenas estoy comenzando esta aventura! 🚀
+Estoy construyendo una base sólida para convertirme en Arquitecto Frontend.  
+Cada repositorio documenta lo que aprendo, practico y comparto. ¡Todo con pasión por el código limpio y bien estructurado! 🚀
 
-📁 [`Lógica con TypeScript`](https://github.com/jcbalbdev/logica-typescript) — fortaleciendo bases sólidas para el desarrollo profesional con tipos bien definidos y control estructurado 🧱  
-📁 [`Lógica con Python`](https://github.com/jcbalbdev/logica-python) — aplicando lógica con agilidad y claridad, ideal para resolver problemas con eficiencia y flow 🐍
+📁 [`Guía HTML`](https://github.com/jcbalbdev/guia-html)  
+Conoce las etiquetas HTML, su uso correcto y cómo mejorar el SEO desde el código. Ideal para crear sitios bien estructurados y accesibles.
+
+📁 [`Lógica con TypeScript`](https://github.com/jcbalbdev/logica-typescript)  
+Desafíos de lógica con tipos estrictos y estructuras controladas. Perfecto para pulir pensamiento lógico y buenas prácticas.
+
+📁 [`Lógica con Python`](https://github.com/jcbalbdev/logica-python)  
+Ejercicios prácticos que fortalecen tu agilidad mental resolviendo problemas reales con sintaxis clara.
 
 ---
 
